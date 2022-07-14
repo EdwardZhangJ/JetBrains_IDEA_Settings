@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
     <option name="accentColor" value="f9826c" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="-76520a33:181d15c4ec7:-8000" />
